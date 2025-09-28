@@ -71,8 +71,6 @@ Example tables:
 - **Overall:** Results match theoretical expectations. Small deviations at low `n` come from JVM warm-up, branch mispredictions, and cutoff optimizations.
 
 
-Time vs n  
-![time-vs-n](plots/time_vs_n.png)
 
 
 
